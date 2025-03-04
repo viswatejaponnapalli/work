@@ -1,0 +1,13 @@
+body {
+    background-color: beige;
+}
+h1 {
+    color:darkgray;
+    text-align:center
+}
+img {
+    width:400px;
+    height:100px;
+    margin-left:40px;
+    margin-top: 20px;
+}
